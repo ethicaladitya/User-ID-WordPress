@@ -14,4 +14,4 @@ This is a WordPress plugin which displays user id with a simple shortcode or PHP
 == Description ==
 
 You can display a user ID of any user on his profile page or anywhere you want with a simple shortcode or a php code. 
-You can use the shortcode: "[user-id]" or php code "<?php echo do_shortcode("[user-id]"); ?>"
+You can use the shortcode: "[user-id]" or php code "echo do_shortcode("[user-id]");"
